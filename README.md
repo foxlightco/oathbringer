@@ -1,5 +1,5 @@
 # Quick Start
-- [Read the oath](https://github.com/foxlightco/lightbringer/blob/master/oath.txt)
+- [Read the oath](https://github.com/foxlightco/lightbringer/blob/master/oath.md)
 - [Sign your name](https://github.com/foxlightco/lightbringer/edit/master/committers.md)
 
 ## Impetus
@@ -9,7 +9,7 @@ Computer scientists, programmers and security researchers are entrusted with tre
 - [to abuse privileges for personal gain](http://www.mercercountyprosecutor.com/press/Motor%20Vehicle.pdf)
 - [to build spying tools](http://surveillance.rsf.org/en/category/corporate-enemies/)
 
-[This oath](https://github.com/foxlightco/lightbringer/blob/master/oath.txt) is a public way for people to [state their commitment to ethical conduct](https://github.com/foxlightco/lightbringer/edit/master/committers.md), and open up discussion for what ethical behavior means in the context of software engineering
+[This oath](https://github.com/foxlightco/lightbringer/blob/master/oath.md) is a public way for people to [state their commitment to ethical conduct](https://github.com/foxlightco/lightbringer/edit/master/committers.md), and open up discussion for what ethical behavior means in the context of software engineering
 
 ## Inspiration
 The [Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath#Modern_version) for medical professionals
