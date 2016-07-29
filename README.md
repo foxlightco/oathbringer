@@ -1,8 +1,8 @@
 # Quick Start
 
-- [Sign your name](https://github.com/foxlightco/lightbringer/edit/master/committers.md) if you agree 
-OR 
 - Star this repo to show your support
+- [Sign your name](https://github.com/foxlightco/lightbringer/edit/master/committers.md) to show your commitment
+
 
 ## What is this?
 [This oath](https://github.com/foxlightco/lightbringer/blob/master/oath.md) is a public way for people to [state their commitment to ethical conduct](https://github.com/foxlightco/lightbringer/edit/master/committers.md), and open up discussion for what ethical behavior means in the context of software engineering
@@ -16,6 +16,8 @@ Computer scientists, programmers and security researchers are entrusted with tre
 
 ## Inspirations
 The [Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath#Modern_version) for medical professionals
+
+The [Engineer's Iron Ring](https://en.m.wikipedia.org/wiki/Ritual_of_the_Calling_of_an_Engineer#History) for civil engineers
 
 The publication ["A Scientist Rebels](http://lanl-the-back-story.blogspot.com/2013/08/a-scientist-rebels.html) by MIT researcher [Norbert Weiner](https://en.wikipedia.org/wiki/Norbert_Wiener)in response to the US military attempting to weaponize his research
 
