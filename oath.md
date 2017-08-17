@@ -1,7 +1,4 @@
 # Oath
-I pledge to use coding and security to make a positive influence.
-
-My actions will not compromise privacy, nor help anyone else do so.
 
 I will balance privileged access with transparency and accountability. 
 
